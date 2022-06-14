@@ -1,0 +1,6 @@
+module Pods_CollectionViewInsideTableView {
+  umbrella header "Pods-CollectionViewInsideTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
